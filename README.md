@@ -15,4 +15,4 @@ Here's my Tech Challenge **Argonautes** made during preparation to Wild Code Sch
 
 ## Add an Argonaute to the Crew
 
-![create](./assets/img/add-argonaute.gif)
+![create](./assets/img/add-argonaute.mp4)
