@@ -9,10 +9,9 @@ Here's my Tech Challenge **Argonautes** made during preparation to Wild Code Sch
 - PHP
 - MySQL
 
-## Fetch and display Argonautes from DB
+## Features
+
+- Fetch and display Argonautes from DB
+- Add an Argonaute to the Crew
 
 ![homepage](./assets/img/argonautes-list.png)
-
-## Add an Argonaute to the Crew
-
-![create](./assets/img/add-argonaute.mp4)
