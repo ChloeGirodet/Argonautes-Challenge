@@ -11,4 +11,8 @@ Here's my Tech Challenge **Argonautes** made during preparation to Wild Code Sch
 
 ## Fetch and display Argonautes from DB
 
-![homepage](./src/assets/img/argonautes-list.png)
+![homepage](./assets/img/argonautes-list.png)
+
+## Add an Argonaute to the Crew
+
+![create](./assets/img/add-argonaute.gif)
